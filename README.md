@@ -1,14 +1,7 @@
 publications
 ============
 
-In order to add publications, there are two possibilities:
-
-1. (the simple one) Using Bibsonomy
-
-- log in to http://www.bibsonomy.org/ using "bigfp7" as login. The password is the same as for the BIG twitter and bit.ly
-- add the publication using the tag "big-318062", please provide a persistent download URL (if not existing you can add it to git, see method 2, this is actually preferable even if you have another download link as then we have all publications in one place)
-
-2. Using Git
+In order to add publications, you need to use Git and follow the steps below. If you don't have the technical knowledge to do so, please write an email to Konrad with the bibtex entry and the attached pdf and he will do it for you. If you do not have and cannot create a bibtex entry, provide all information you have, including title, author names in correct order, conference or book name, pages, year.
 
 - give Konrad your github account, so he can add you to https://github.com/orgs/bigfp7
 - log in to git, clone https://github.com/bigfp7/publications with write access over SSH or https
